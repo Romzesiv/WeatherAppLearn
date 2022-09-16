@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/romze/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2545" />
         <entry key="..\:/Users/romze/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.4898148148148148" />
+        <entry key="..\:/Users/romze/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_days.xml" value="0.4898148148148148" />
+        <entry key="..\:/Users/romze/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_hours.xml" value="0.4898148148148148" />
         <entry key="..\:/Users/romze/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_main.xml" value="0.4898148148148148" />
       </map>
     </option>
